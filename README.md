@@ -1,4 +1,4 @@
-### Hi , I am Gustavo
+# Hi , I am Gustavo
 Front-end Developer, Coffee lover.
 
 I'm learning at the moment JavaScript
