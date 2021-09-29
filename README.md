@@ -1,5 +1,9 @@
 ### Hi , I am Gustavo
-Here are some ideas to get you started:
+Front-end Developer, Coffee lover.
+
+I'm learning at the moment JavaScript
+
+## Technologies & Tools
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
