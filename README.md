@@ -1,6 +1,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0NEHITKILL.0NEHITKILL)
 
-# Hi , I am Gustavo
+# Hi , I am Gustavo <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 Front-end Developer, Coffee lover.
 
 I'm learning at the moment JavaScript
