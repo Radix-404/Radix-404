@@ -2,7 +2,7 @@
 Front-end Developer, Coffee lover.
 
 I'm learning at the moment JavaScript
-
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 ## Technologies & Tools
 
 - 🔭 I’m currently working on ...
