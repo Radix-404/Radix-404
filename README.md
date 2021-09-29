@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
 # Hi , I am Gustavo
 Front-end Developer, Coffee lover.
 
@@ -15,4 +17,5 @@ I'm learning at the moment JavaScript
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=0NEHITKILL)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
