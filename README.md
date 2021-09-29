@@ -3,7 +3,7 @@
 # Hi , I am Gustavo <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 Front-end Developer, Coffee lover.
 
---I'm learning at the moment JavaScript
+I'm learning at the moment JavaScript
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavo-silva-623987215/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gustavo.048/) 
@@ -15,6 +15,6 @@ Front-end Developer, Coffee lover.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
---
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=0NEHITKILL)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0NEHITKILL&hide=TeX&layout=compact)
