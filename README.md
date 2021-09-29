@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0NEHITKILL.0NEHITKILL)
 
 # Hi , I am Gustavo
 Front-end Developer, Coffee lover.
@@ -18,4 +18,4 @@ I'm learning at the moment JavaScript
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=0NEHITKILL)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0NEHITKILL&hide=TeX&layout=compact)
