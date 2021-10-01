@@ -16,5 +16,5 @@ I'm learning at the moment JavaScript
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0NEHITKILL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0NEHITKILL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![YOUR GitHub stats](https://github-readme-stats.vercel.app/api?username=0NEHITKILL&show_icons=true&theme=radical)
