@@ -19,8 +19,8 @@ I'm learning at the moment JavaScript
 
 ## :bar_chart: Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=0NEHITKILL&show_icons=true&theme=github_dark&hide=issues""https://github-readme-stats.vercel.app/api/top-langs/?username=0NEHITKILL&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats">
-  <img src=">
+  <img src="https://github-readme-stats.vercel.app/api?username=0NEHITKILL&show_icons=true&theme=github_dark&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0NEHITKILL&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0NEHITKILL.0NEHITKILL)
