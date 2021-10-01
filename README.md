@@ -18,4 +18,4 @@ I'm learning at the moment JavaScript
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0NEHITKILL&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![YOUR GitHub stats](https://github-readme-stats.vercel.app/api?username=0NEHITKILL&show_icons=true&theme=radical&hide=issue)
+![YOUR GitHub stats](https://github-readme-stats.vercel.app/api?username=0NEHITKILL&show_icons=true&theme=radical&hide=issues)
