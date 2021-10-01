@@ -16,8 +16,11 @@ I'm learning at the moment JavaScript
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
+
 ## :bar_chart: Stats
-![YOUR GitHub stats](https://github-readme-stats.vercel.app/api?username=0NEHITKILL&show_icons=true&theme=github_dark&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0NEHITKILL&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=0NEHITKILL&show_icons=true&theme=github_dark&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0NEHITKILL&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats">
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0NEHITKILL.0NEHITKILL)
