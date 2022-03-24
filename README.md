@@ -6,9 +6,6 @@ I'm learning at the moment JavaScript
   :iphone: Contacts
 </h2>
 <p align=left>
-  <a href="https://github.com/Radix-404">
-        <img src="https://camo.githubusercontent.com/4c51da250cdef5906bb8a72701595eaa4fb9b78422e87fe83321a30d51c84c06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333130303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a68747470733a2f2f6769746875622e636f6d2f746574657573417261756a6f">
-  </a>
   <a href="https://www.linkedin.com/in/gustavo-silva-623987215/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
