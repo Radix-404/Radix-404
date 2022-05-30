@@ -1,4 +1,4 @@
-<h1 align=center><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi , I am Gustavo<h1/>
+<h1 align=center><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi , I am Gustavo</h1>
 <p align=center>
   Junior Developer, Coffee lover.
 </p>
@@ -28,6 +28,4 @@
   <img align=center src="https://github-readme-stats.vercel.app/api?username=Radix-404&show_icons=true&hide=issues">
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radix-404&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
 </p>
-<h2 align=center>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Radix-404.Radix-404)
- </h2>
