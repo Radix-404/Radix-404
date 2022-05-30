@@ -1,7 +1,9 @@
 <h1 align=center><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi , I am Gustavo<h1/>
-Front-end Developer, Coffee lover.
+<p align=center>
+  Front-end Developer, Coffee lover.
 
 I'm learning at the moment JavaScript
+<p/>
 <h2 align=center>
   :iphone: Contacts
 </h2>
