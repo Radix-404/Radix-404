@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi , I am Gustavo
+# <img align=center src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi , I am Gustavo
 Front-end Developer, Coffee lover.
 
 I'm learning at the moment JavaScript
-<h2>
+<h2 align=center>
   :iphone: Contacts
 </h2>
 <p align=center>
@@ -10,7 +10,7 @@ I'm learning at the moment JavaScript
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-<h2>
+<h2 align=center>
   ⚡ Skills
 </h2>
 <p align=center>
@@ -18,7 +18,7 @@ I'm learning at the moment JavaScript
     <img align=center src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align=center src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
-<h2>
+<h2 align=center>
   :bar_chart: Stats
 </h2>
 <p>
